@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+If you want to embed images, this is how you do it:
 
-You can use the [editor on GitHub](https://github.com/Gersong11/Html_Web_1151270/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image of fondo](/img/imagen.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Gerson Fernando Gomez 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Fecha de Nacimiento: 16/07/1997
 
-# Header 1
-## Header 2
-### Header 3
+Mi nombre es gerson soy un estudiante de la universidad francisco de paula al que le gusta el futbol aunque ya no suelo practicarlo me gusta mas jugarlo que verlo sin embargo disfruto de ambas acciones . mi creencia sobre la vida es que es tan efimera que creo profundamente que es un deber de cada uno de nosotros darle un contenido para no ser esclavos de lo material tambien creo que debemos valorar el tiempo por que la vida es un instante y pronto ya no seremos mas que un recuerdo . creo profundamente en la evolucion del "hombre" como persona en sociedad.La religion no se me da puesto que la mayoria de las cosas las cuestiono incluso aquellas que me fueron inculcadas.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+En este parrafo hablare un poco sobre la "carrera" uff la carrera que nombre como si se tratase de una competencia . En fin ingenieria de sistemas es una carrera bastante compleja donde aprendes un poco de todo y desarrollas ciertas capacidades me gusta que puedes descubrir ciertos intereses y descubrir cosas nuevas y todo el tiempo estas recibiendo cantidades de informacion que despiertan tu curiosidad o pueden hacer volar tu mente , los profes son melos en su mayoria algunos forman como personas otros realmente no lo hacen y asi un caos total lleno de diversidad y con algunas cosas buenas eso es ingenieria de sistemas la "carrera"
 
-**Bold** and _Italic_ and `Code` text
+### Mis hobbies
+* Jugar
+* Leer
+* Cocinar("Solo Postres")
+* Futbol
+* Ajedrez
 
-[Link](url) and ![Image](src)
-```
+### Mis películas , juegos y series favoritas
+- Constatine
+- Lobo Wall Street
+- How To Sell Drugs Online (Fast)
+- God Of War
+- World Of Warcraft
+- Fuck List
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Mis materias favoritas
 
-### Jekyll Themes
+Materia | Nota | Motivo
+------------ | ------------- |------------
+PROGRAMACION ORIENTADA A OBJETOS II | 3.4 | El ingeniero Milton Me brindo gran formacion como persona y abrio la mente a nuevas tecnologias
+ECONOMIA Y FINANZAS PARA INGENIEROS | 4.4|Explorar Nuevas cosas
+BASES DE DATOS | 3.3 |Me gusta el Diseno UML
+INTELIGENCIA ARTIFICIAL | 3.7 |Conocer el funcionamiento detras de el iot
+ADMINISTRACION DE SO DE RED | 4.4.|Conocer sobre un entorno diferente al comun (windows)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gersong11/Html_Web_1151270/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
