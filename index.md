@@ -1,6 +1,6 @@
-If you want to embed images, this is how you do it:
 
-![Image of fondo](/img/imagen.png)
+
+![Image](/imagen.png)
 
 
 # Gerson Fernando Gomez 
