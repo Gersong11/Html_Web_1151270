@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Formulario de Contacto</title>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+ <script> 
+ 
+
+</script>
+</head>
+
+<body class="bg-dark">
+<br>
+<br>
+<nav class="navbar navbar-expand-sm bg-light justify-content-center">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="index.html">Inicio</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="contacto.html">Contacto</a>
+    </li>
+    
+  </ul>
+</nav>
+<br>
+<br>
+<div class="container bg-white" >
+
+	<form action="https://gemetech.co/mail/mail.php" method="POST">
+  <div class="form-group">
+    <label for="nombre">Nombre</label>
+    <input type="text" class="form-control" maxlength="50" placeholder="Ingresar Nombre" name="nombre" id="nombre">
+  </div>
+    <div class="form-group">
+    <label for="asunto">Asunto</label>
+    <input type="text" class="form-control" maxlength="50" placeholder="Ingresar Asunto" name="asunto" id="asunto">
+  </div>
+    <div class="form-group">
+    <label for="email">Correo:</label>
+    <input type="email" class="form-control" placeholder="Ingresar Correo Destinatario" name="destinatario" id="destinatario">
+  </div>
+  <div class="form-group">
+  <label for="comment">Mensaje:</label>
+  <textarea class="form-control" rows="3" placeholder="Ingrese el Mensaje" name="mensaje" id="mensaje"></textarea>
+</div>
+  <br>
+  <br>
+  <button type="submit"  name="submit" class="btn btn-primary btn-lg" onclick="">Enviar</button>
+  <input type="reset" type="input" name="limpiar" id="limpiar" class="btn btn-danger btn-lg" value="cancelar">
+</form>
+<br>
+<br>
+</div>
+
+
+</body>
+</html>
